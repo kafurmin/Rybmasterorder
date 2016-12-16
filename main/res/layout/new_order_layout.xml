@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_column="2"
+        android:layout_gravity="center_vertical">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="Номер заказа"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textViewNewOrderId"
+                android:textSize="20sp" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:ems="10"
+                android:id="@+id/editTextNewOrderId" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="Мобильный тел."
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textViewNewMobile"
+                android:textSize="20sp" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:inputType="phone"
+                android:ems="10"
+                android:id="@+id/editTextNewMobile" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:text="Выполнен?"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textViewNewDone"
+                android:textSize="20sp" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/checkBoxNewDone" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:text="Button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/button3"
+                android:visibility="invisible" />
+
+            <Button
+                android:text="Сохранить"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/buttonSaveNewOrder"
+                android:background="@color/cast_intro_overlay_button_background_color"
+                android:onClick="onClick" />
+        </TableRow>
+    </TableLayout>
