@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_allOrders"
+            android:icon="@drawable/ic_all_inclusive_black_48dp"
+            android:title="Все ремонты" />
+        <item
+            android:id="@+id/nav_spinning"
+            android:icon="@drawable/ic_timeline_black_48dp"
+            android:title="Удилища" />
+        <item
+            android:id="@+id/nav_reel"
+            android:icon="@drawable/ic_disc_full_black_48dp"
+            android:title="Катушки" />
+
+        <item
+            android:id="@+id/nav_undone"
+            android:icon="@drawable/ic_build_black_48dp"
+            android:title="Не готовы" />
+    </group>
+<!--
+
+    <item android:title="Связаться">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+-->
+
+</menu>
