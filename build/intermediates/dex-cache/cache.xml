@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_622446dd01cb045451e58c76efd71a49faba0815\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_2cbf217d6017b17719a09a618c3be579f7ab6e9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_ef1e413b0bee45ac4dc2390d1d70127a0e1431c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_3023a83ddd2313e456ce507af09a5118a82e7fb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_70f4c2adad5ec3fc92e9b35489403e5dcfc28f2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_42b5b433d6179d277a843cd5ef09451822cd2f51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_30e04ddf1e1f19a8e1b5fce4549788fd6a2e3427\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_3edc22ab81d627da4655645dd57796ee619d3bd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_59bac010d570ba79dccf5df25a422b1dab5cabd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_db9b9bb14fbec2124fbb713e951254b892a96c9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_df5868ec58d7bce95a16c44f0cbbfefb0dc37567\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_b6e1efe6017797ed8e50b3a1e1b61832f6009148\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_b170f446d372d855916c120655f4a4ff964649f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_08c617c35609590a6becbb4496c0d76c1078215b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_8622d5a36ed41074673876e36aca81ea2565de4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_c5675290b839f22ebd51a999ac8b2a1c69e94dc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_db377106eff5b3160e8570f80daa45548f4e4eda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_36d2788eb153f56d22e4d418aec9642974a4d8e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_93808d94f2136291353cab75163f3b464f5b4f4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_36cfb16886efedce865c9a5a88354bad0866d978\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_d7955b28daa3f77207d355409194bf50bb541b96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_d1b80d015b24bde86cc7e133d45c833352f34303\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_fbad86221f715c9b5748d90a7325c2109098d6fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_68a0da12b2e6251c35c15c57e5d657b315cb64f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_29f009316ca7fb4bd8702a5419097124350ed7ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_3974ab2742588d5ba9dc8fca9140fea96b462df0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_763383eed11649c290c8d22307559027569ad994\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_e21fcc3094052a390b8d4fc5fe1b28ab2879b2b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_e11a4f3ed6badd08b8b1cfc77918ef1256bfce5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_1461f7a14f480a932c0b2ecf50cbb6e5ef002014\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_ec752a223c0d32834e411b4d1286a88b563f2a29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_912d78466526588308ff68c400ee1c3848b75379\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_4c7fd7422b9d1a29a342d9ae3a99b8ecd74dd8b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_b726d9c50a439db69ddaaf890920be7ea88b77b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_5e6d34633577659aa8f32a4388431118b05c89a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_22e16343635b4d6134999dc69b68b061f9c67a74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_89d9e5349f661843361dab2ce57f7a4019ffc349\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_a3bfecd80be67450e173cecd5104a077a95af69a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_56fa1034656dc78e7fcaca5668cf8d531d640c6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.miguelcatalan\materialsearchview\1.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.miguelcatalan-materialsearchview-1.4.0_2565894f48ce9a91d36222d19d4ab0e8f0825d9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_0fdb21de77ce7bda310825ebd41cbc4357e3e530\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_33c32461b4ccfd9b3a2737ed23dbb09bcfbb5e32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_35ac41456e21869674270ef0f2cede71fafeb1b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_e3c0f318022a919267672d20aa8caf8a1f5ba2df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_0b2705d46bf842c0e9f72204a1fc7274309f507b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_2cb6a977fa6b11312705ca3d267ae218596b063a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_96fd3b03481a5d109785a7fbfdac276d1a4818f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_02fdba3564913b1dc6e92f45f7e2814ba434e405\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_03366880ee74ab9a89768af9853132a84f43f306\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-database-0.4.0_9d8b17ce287477781bc6da24a8fdab98358b5ccb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_50ad4a5891320037fa3f0a98785480578b2090a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_0def7e681e1493f42c219603be1a7274ffc0689a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_6408bf15f8d6d098823e56c6bcaa80dd90caf1c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f2446ad483734228817d8dd57585d6ce9c8ae05">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d3c029a8b0f124e48267fdeea02b50d465b41b2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_d0b9a6a244e33d97b6d5ae9836012b854fb985bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Works\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_c5f7ae25b62f0985d3d2b6d661cd3b9801b56cbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_ce1998b71da453497cfa7a3abf2b4d0029fd760a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_e0693310ddfb605368faaf67408a0f8aa5be8300\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_9801e48caa58917cbc6d319199bd28a3bb1a0cb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_674e0f602637605441721b3543b8774ae9407779\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_ef43c93e6008da095fb48df63d4c39718ef251c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_edbaf89453561bdd8138a281d73b5cc05354018f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_b28f401ab29bdff9ad26889d85c068b7e94dc03f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_21bd71fc6c814e4df08d9142adc879201f6d840d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_cafeee8663ba2443ece05376baf45a81e90c368c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_02d1daeb6ae995baed85fe4a1483d4253dabf5a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_902e50af966ff586b50fcbb068e4f9144b233d2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_623c7be498bd9576f30e2592f9e4fd0186e7a55c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_f5ecde3a84c040f39763b22f98996121c49b880f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_493206f545e190af79be2176140352132099e759\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2039c90b44d2fc33f700ccadf18be45e0f7c8036">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_40d70f95f7b97462de12fd14cbe4d641f69802b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_439829550197eead303ede960aabefd7226c7f85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_ff529c62f47536e244f6a90305aa8759602478af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\RybMasterOrder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="D:\workspace\RybMasterOrder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_08f943850f75eccddd68c65a062f6344df325059\classes.dex" />
+    </item>
+
+</items>

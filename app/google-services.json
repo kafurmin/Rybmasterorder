@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "548227866576",
+    "firebase_url": "https://rybmasterorder.firebaseio.com",
+    "project_id": "rybmasterorder",
+    "storage_bucket": "rybmasterorder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548227866576:android:fd33e27b79f01354",
+        "android_client_info": {
+          "package_name": "com.example.kif.rybmasterorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548227866576-fc2a34n8ovf09jb8gg7grmfu8pd4u8ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kif.rybmasterorder",
+            "certificate_hash": "4A95C400EE44BDF41D993D06476C91229288713E"
+          }
+        },
+        {
+          "client_id": "548227866576-fibe4i3i4eur3ucgifm1f3smvpfoma2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAelyZoU2F5HS3_tpzQ3pMnu0mC7Jtgs4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548227866576-fibe4i3i4eur3ucgifm1f3smvpfoma2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
